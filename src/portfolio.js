@@ -197,7 +197,6 @@ const workExperiences = {
         "Upgrading the latest programming tools and versions of Angular for higher scalability and performance."
       ]
     },
-    
   ]
 };
 
