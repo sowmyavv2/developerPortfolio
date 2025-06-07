@@ -165,10 +165,21 @@ const workExperiences = {
   display: true, //Set it to true to show workExperiences Section
   experience: [
     {
+      role: "Senior Frontend Developer",
+      company: "Walmart",
+      companylogo: require("./assets/images/walmartlogo.png"),
+      date: "May 2024 – Present",
+      desc: "Built eCommerce WalmartPlus membership application which is accessible, high performance using reusable React components",
+      descBullets: [
+        "Engage with cross-functional teams on objectives for Figma designs to intuitive responsive UI/UX pages.",
+        "Improved user experience and accessibility with ADA, WCAG and SEO optimization using a11y practices."
+      ]
+    },
+    {
       role: "Senior Software Engineer",
       company: "NTT",
       companylogo: require("./assets/images/nttlogo.png"),
-      date: "October 2019 – Present",
+      date: "October 2019 – April 2024",
       desc: "Built complex enterprise application with tech stack–React, JavaScript, Native React, Redux and Flux.",
       descBullets: [
         "Created comprehensive dashboards, forms validations and reports using state management, directives.",
@@ -180,15 +191,13 @@ const workExperiences = {
       company: "Dimension Data",
       companylogo: require("./assets/images/dimension-data.png"),
       date: "August 2016 – October 2019",
-      desc: "Developed responsive web applications using Angular, Typescript, HTML5, CSS3, Bootstap4 and Azure."
+      desc: "Developed responsive web applications using Angular, Typescript, HTML5, CSS3, Bootstap4 and Azure.",
+      descBullets: [
+        "Perform high level basecoat designs of the application to outline the design considerations and architect level technical design decisions.",
+        "Upgrading the latest programming tools and versions of Angular for higher scalability and performance."
+      ]
     },
-    {
-      role: "Web Developer",
-      company: "ePace Technologies Inc",
-      companylogo: require("./assets/images/epace.png"),
-      date: "March 2016 - August 2016",
-      desc: "Created UI widgets, including supplier purchase order grids, product grids, form wizards, Edit Screens, using HTML, CSS, jQuery and XGrid."
-    }
+    
   ]
 };
 
