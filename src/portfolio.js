@@ -36,7 +36,7 @@ const socialMediaLinks = {
   github: "https://github.com/sowmyavv2/",
   linkedin: "https://www.linkedin.com/in/sowmya-vetukuri/",
   gmail: "vsowmya134@gmail.com",
- // facebook: "https://www.facebook.com/saad.pasta7",
+  // facebook: "https://www.facebook.com/saad.pasta7",
   medium: "https://medium.com/",
   //stackoverflow: "https://stackoverflow.com/",
   // Instagram, Twitter and Kaggle are also supported in the links!
@@ -196,7 +196,7 @@ const workExperiences = {
         "Perform high level basecoat designs of the application to outline the design considerations and architect level technical design decisions.",
         "Upgrading the latest programming tools and versions of Angular for higher scalability and performance."
       ]
-    },
+    }
   ]
 };
 
